@@ -16,3 +16,6 @@ env/
 .env
 *.log
 .DS_Store
+# 工具目录
+.claude/
+.codemoss/
